@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with - Other developers in community.
 - 💬 Ask me about - Math, Javascript, CSS3, HTML5 😉
 - 🥅 2021 Goal - Learn new things.
-- ⚡ Fact - I'm fairly good with Problem solving 😎
+- ⚡ Fun fact - I'm fairly good with memorizing things. 😎
 
 [![Rajaniraiyn's github stats](https://github-readme-stats.vercel.app/api?username=rajaniraiyn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/rajaniraiyn?tab=repositories)
 <br>
