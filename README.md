@@ -1,6 +1,6 @@
 ### Hi, I'm Rajaniraiyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## In short, Tech Enthusiast with passion for Web Development!
+## In short, Tech Enthusiast with passion for Everything!
 - 🔭 I’m currently working on - [Raj Browser](https://github.com/Rajaniraiyn/raj-browser).
 - 🌱 I’m currently learning - Everything.
 - 👯 I’m looking to collaborate with - Other developers in community.
