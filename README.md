@@ -62,11 +62,11 @@
 <div align="left">
   
   [<img align="middle" alt="Rajaniraiyn | Portfolio" width="40px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
-  [<img align="middle" alt="Rajaniraiyn | LinkedIn" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedin]
-  [<img align="middle" alt="Rajaniraiyn | Twitter" width="40px" src="https://www.freeiconspng.com/uploads/cricle-twitter-emblem-png-clipart-8.png" />][twitter]
-  [<img align="middle" alt="Rajaniraiyn | Instagram" width="40px" src="https://www.instagram.com/static/images/ico/square_gradient_192.png/7c119b0c5722.png" />][instagram]
-  [<img align="middle" alt="Rajaniraiyn | Codepen" width="40px" src="https://clipground.com/images/codepen-logo-7.png" />][codepen]
-  [<img align="middle" alt="Rajaniraiyn | Youtube" width="40px" src="https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png" />][youtube]
+  [<img align="middle" alt="Rajaniraiyn | LinkedIn" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
+  [<img align="middle" alt="Rajaniraiyn | Twitter" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
+  [<img align="middle" alt="Rajaniraiyn | Instagram" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
+  [<img align="middle" alt="Rajaniraiyn | Codepen" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" />][codepen]
+  [<img align="middle" alt="Rajaniraiyn | Youtube" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" />][youtube]
   
   </div>
 
