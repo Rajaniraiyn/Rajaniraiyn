@@ -1,8 +1,6 @@
 <div align="center">
 
 # Hi, I'm _Rajaniraiyn_ <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="60px" align="middle" />
-
-<br>
   
 ## In short, Tech Enthusiast and _Programming Polyglot_ with passion for Everything!
   
@@ -10,7 +8,7 @@
   
 </div>
 
-<br>
+---
 
 - 🔭 I’m currently working on - [Raj lang](https://github.com/rajlang), RajOS 🤫, WebDroid, [Santa Browser 🎅](https://github.com/SantaBrowser), many more under the hood
 - 🌱 I’m currently learning - Everything and Everyone aroumd me. 😎 
@@ -44,6 +42,8 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
   
   </div>
+  
+ ## Status
 
 <div align="center">
   
