@@ -11,7 +11,7 @@
 ---
 
 - 🔭 I’m currently working on - [Raj lang](https://github.com/rajlang), RajOS 🤫, WebDroid, [Santa Browser 🎅](https://github.com/SantaBrowser), many more under the hood
-- 🌱 I’m currently learning - Everything and Everyone aroumd me. 😎 
+- 🌱 I’m currently learning - Everything and Everyone around me. 😎 
 - 👯 I’m looking to collaborate with - Nice people to redefine the world. 🌏
 - 💬 Ask me about - Web Dev, Systems Dev, CrossPlatform Dev, Android Dev, Browsers, Search-Engines, Development Tooling, New Tech, AI/ML, Web3, 😉
 - 🥅 Lifetime Goal - Learn new things to empower the world. 🆕
