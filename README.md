@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on - [Raj lang](https://github.com/rajlang), RajOS 🤫, WebDroid, [Santa Browser 🎅](https://github.com/SantaBrowser), many more under the hood
+- 🔭 I’m currently working on - [Raj lang](https://dub.sh/raja-github-lang), RajOS 🤫, WebDroid, [Santa Browser 🎅](https://github.com/SantaBrowser), many more under the hood
 - 🌱 I’m currently learning - Everything and Everyone around me. 😎 
 - 👯 I’m looking to collaborate with - Nice people to redefine the world. 🌏
 - 💬 Ask me about - Web Dev, Systems Dev, CrossPlatform Dev, Android Dev, Browsers, Search-Engines, Development Tooling, New Tech, AI/ML, Web3, 😉
@@ -70,11 +70,11 @@
   
   </div>
 
-[website]: https://rajaniraiyn.github.io/
-[linkedin]: https://www.linkedin.com/in/rajaniraiyn/
-[twitter]: https://twitter.com/rajaniraiyn/
-[instagram]: https://instagram.com/rajaniraiyn/
-[codepen]: https://codepen.io/rajaniraiyn/
-[youtube]: https://www.youtube.com/channel/UCfa8h2FxuAJKQXcpttFtK0A
+[website]: https://dub.sh/raja-portfolio
+[linkedin]: https://dub.sh/raja-linkedin
+[twitter]: https://dub.sh/raja-tweet
+[instagram]: https://dub.sh/raja-insta
+[codepen]: https://dub.sh/raja-codepen
+[youtube]: https://dub.sh/raja-youtube
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Rajaniraiyn" height="25px">
