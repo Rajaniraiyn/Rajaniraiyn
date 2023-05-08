@@ -67,6 +67,7 @@
   [<img align="middle" alt="Rajaniraiyn | Instagram" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
   [<img align="middle" alt="Rajaniraiyn | Codepen" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" />][codepen]
   [<img align="middle" alt="Rajaniraiyn | Youtube" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" />][youtube]
+  [<img align="middle" alt="Rajaniraiyn | Dev Community" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" />][dev_to]
   
   </div>
 
@@ -76,5 +77,6 @@
 [instagram]: https://dub.sh/raja-insta
 [codepen]: https://dub.sh/raja-codepen
 [youtube]: https://dub.sh/raja-youtube
+[dev_to]: https://dub.sh/raja-dev-to
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Rajaniraiyn" height="25px">
