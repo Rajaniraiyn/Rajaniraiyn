@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on - [Raj lang](https://dub.sh/raja-github-lang), RajOS 🤫, WebDroid, [Santa Browser 🎅](https://github.com/SantaBrowser), many more under the hood
+- 🔭 I’m currently working on - [Raj lang](https://dub.sh/raja-github-lang), RajOS 🤫, WebDroid, many more under the hood
 - 🌱 I’m currently learning - Everything and Everyone around me. 😎 
 - 👯 I’m looking to collaborate with - Nice people to redefine the world. 🌏
 - 💬 Ask me about - Web Dev, Systems Dev, CrossPlatform Dev, Android Dev, Browsers, Search-Engines, Development Tooling, New Tech, AI/ML, Web3, 😉
