@@ -48,7 +48,9 @@
 <div align="center">
   
   [![Rajaniraiyn's github stats](https://github-readme-stats.vercel.app/api?username=rajaniraiyn&show_icons=true&theme=github_dark)](https://github.com/rajaniraiyn?tab=repositories)
-  ![Rajaniraiyn's Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajaniraiyn&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+  <!--  ![Rajaniraiyn's Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajaniraiyn&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0) -->
+
+  ![Rajaniraiyn's Streak](https://streak-stats.demolab.com/?user=Rajaniraiyn&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
   
   ![Rajaniraiyn's Trophies](https://github-profile-trophy.vercel.app/?username=Rajaniraiyn&rank=-B&column=-1&no-frame=true&margin-w=10)
   
