@@ -2,9 +2,9 @@
 
 # Hi, I'm _Rajaniraiyn_ <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="60px" align="middle" />
   
-## In short, Tech Enthusiast and _Programming Polyglot_ with passion for Everything!
+## In short, Autodidact Engineer and _Generalist Builder_ of Software & Intelligent Systems!
   
-  Autodidact, Meticulous and Erudite web dev with strong belief in the responsive, open, and accessible web. An active supporter and contributor to open source. Created a variety of open source frontend tools.
+  Autodidact, Meticulous and Erudite web dev with strong belief in the responsive, open, and accessible web. An active supporter and contributor to open source. Created a variety of open source tools.
   
 </div>
 
