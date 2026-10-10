@@ -3,24 +3,56 @@
   <img src="./assets/workbench-light.svg" width="960" alt="Curiosity, shipped. An imaginary workbench connecting a browser, a terminal, a cursor, and the machinery underneath.">
 </picture>
 
-### Sometimes the rabbit hole is a button. Sometimes it's Chromium.
+### Hey there <img src="./assets/wave.gif" alt="Animated victory-sign hand" width="40" align="middle">
 
-I like owning the whole problem: what a product should do, how it feels, and what makes it work. I'll move from an interaction to a native bridge, from a client app to a backend, or from a slow path to a new tool. The problem decides where I go next.
+**Sometimes the rabbit hole is a button. Sometimes it's Chromium.**
 
-That habit runs through my product work too: AI editors and agents at [Abacus.AI](https://abacus.ai), an AI browser as a founding engineer at [Portal](https://portal.so), and Chromium-based browser development at [Santa Browser](https://santabrowser.com). Design and engineering aren't separate stops for me.
+Web · desktop · mobile · CLI. From how it feels to what makes it work.
 
-### A few threads through the work
+![Product engineering](https://img.shields.io/badge/Product_engineering-272b30?style=flat-square) ![Design and interaction](https://img.shields.io/badge/Design_%26_interaction-b9472c?style=flat-square) ![Native and systems](https://img.shields.io/badge/Native_%26_systems-365ea8?style=flat-square) ![Tools and automation](https://img.shields.io/badge/Tools_%26_automation-47664f?style=flat-square)
 
-**Across the seams.** I've brought [Chromium into SwiftUI](https://github.com/Rajaniraiyn/CefSwift) and [native libraries into JavaScript runtimes](https://github.com/Rajaniraiyn/unffi). Different directions across the same boundary. I'm also exploring how agents can [observe and act on native interfaces](https://github.com/Rajaniraiyn/actuate).
+### Out in the world
 
-**In the details.** How state propagates, when an interface responds, what a click sounds like. [Reactive state](https://github.com/Rajaniraiyn/react-alien-signals), [sound interactions](https://github.com/Rajaniraiyn/svelte-sound), and [streaming chat](https://github.com/assistant-ui/assistant-ui/pull/597) are different ways into the same question: how does the software feel to use?
+- **AI editors & agents** → Abacus.AI
+- **AI browser · founding engineer** → Portal
+- **Chromium-based browser development** → Santa Browser
 
-**Under the hood.** Sometimes the useful work is invisible: [generating typed parsers at compile time](https://github.com/Rajaniraiyn/jzon-rs), [making conversations persist](https://github.com/2FastLabs/agent-squad/pull/111), then [returning to fix the rough edges](https://github.com/2FastLabs/agent-squad/pull/201). I care about what happens after the demo works.
+### Follow a rabbit hole
 
-### Leave room for the odd idea
+- **Across the seams** · Chromium ↔ SwiftUI · JS ↔ native libraries
+- **In the details** · reactive state · sound · streaming interfaces
+- **Under the hood** · typed JSON · persistence · developer tools
 
-An [experimental compiler](https://github.com/Rajaniraiyn/tsllvm). [Runtime evidence carried in Rust types](https://github.com/Rajaniraiyn/gdp-rs). [Workflows for coding agents](https://github.com/Rajaniraiyn/rstack). Some things become useful tools; some teach me what to build next. Both belong on the workbench.
+**On the bench:** native automation · compiler experiments · proof-carrying Rust · agent workflows
 
-Bring a stubborn integration, an interaction worth getting right, or a strange little idea. Founders, engineers, designers, and fellow tinkerers are all welcome. So are issues and pull requests.
+**Upstream:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111)
+
+### From the GitHub corner
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=github-dark&amp;hide_border=true&amp;disable_animations=true&amp;background=191E25&amp;ring=ED9069&amp;fire=ED9069&amp;currStreakLabel=E8DFCE&amp;sideLabels=E8DFCE&amp;currStreakNum=E8DFCE&amp;sideNums=E8DFCE&amp;dates=ADA89F">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=default&amp;hide_border=true&amp;disable_animations=true&amp;background=F6F1E7&amp;ring=B9472C&amp;fire=B9472C&amp;currStreakLabel=272B30&amp;sideLabels=272B30&amp;currStreakNum=272B30&amp;sideNums=272B30&amp;dates=6B675F" width="420" alt="Public GitHub contributions, current streak, and longest streak">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=6&amp;hide_border=true&amp;border_radius=12&amp;bg=191e25&amp;text=e8dfce&amp;title_color=ed9069&amp;custom_title=Repository%20languages">
+  <img src="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=6&amp;hide_border=true&amp;border_radius=12&amp;theme=light&amp;bg=f6f1e7&amp;text=272b30&amp;title_color=b9472c&amp;custom_title=Repository%20languages" width="300" alt="Language mix across public repositories">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Commits%2CPullRequest%2CStars&amp;column=3&amp;row=1&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10">
+  <img src="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Commits%2CPullRequest%2CStars&amp;column=3&amp;row=1&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" width="350" alt="Selected GitHub trophies for commits, pull requests, and stars">
+</picture>
+
+</div>
+
+<sub>Public activity. Repository languages reflect code volume, not proficiency.</sub>
+
+---
+
+**Got a strange idea or a stubborn problem? Let's build.**
 
 [![Visit the portfolio](https://img.shields.io/badge/Portfolio-272b30?style=for-the-badge)](https://rajaniraiyn.dev) [![Say hello by email](https://img.shields.io/badge/Say_hello-b9472c?style=for-the-badge)](mailto:rajaniraiyn@gmail.com)
