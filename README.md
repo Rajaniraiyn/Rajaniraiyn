@@ -49,12 +49,12 @@ Inkscape · GIMP · TensorFlow
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=github-dark&amp;hide_border=true&amp;disable_animations=true&amp;background=191E25&amp;ring=ED9069&amp;fire=ED9069&amp;currStreakLabel=E8DFCE&amp;sideLabels=E8DFCE&amp;currStreakNum=E8DFCE&amp;sideNums=E8DFCE&amp;dates=ADA89F">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=default&amp;hide_border=true&amp;disable_animations=true&amp;background=F6F1E7&amp;ring=B9472C&amp;fire=B9472C&amp;currStreakLabel=272B30&amp;sideLabels=272B30&amp;currStreakNum=272B30&amp;sideNums=272B30&amp;dates=6B675F" width="420" alt="Public GitHub contributions, current streak, and longest streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=github-dark&amp;hide_border=true&amp;disable_animations=true&amp;background=191E25&amp;stroke=343B45&amp;ring=ED9069&amp;fire=ED9069&amp;currStreakLabel=E8DFCE&amp;sideLabels=E8DFCE&amp;currStreakNum=E8DFCE&amp;sideNums=E8DFCE&amp;dates=ADA89F">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=default&amp;hide_border=true&amp;disable_animations=true&amp;background=F6F1E7&amp;stroke=DED7CA&amp;ring=B9472C&amp;fire=B9472C&amp;currStreakLabel=272B30&amp;sideLabels=272B30&amp;currStreakNum=272B30&amp;sideNums=272B30&amp;dates=6B675F" width="420" align="top" alt="Public GitHub contributions, current streak, and longest streak">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=6&amp;hide_border=true&amp;border_radius=12&amp;bg=191e25&amp;text=e8dfce&amp;title_color=ed9069&amp;custom_title=Repository%20languages">
-  <img src="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=6&amp;hide_border=true&amp;border_radius=12&amp;theme=light&amp;bg=f6f1e7&amp;text=272b30&amp;title_color=b9472c&amp;custom_title=Repository%20languages" width="300" alt="Language mix across public repositories">
+  <img src="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=6&amp;hide_border=true&amp;border_radius=12&amp;theme=light&amp;bg=f6f1e7&amp;text=272b30&amp;title_color=b9472c&amp;custom_title=Repository%20languages" width="300" align="top" alt="Most-used languages across public repositories">
 </picture>
 
 <br>
