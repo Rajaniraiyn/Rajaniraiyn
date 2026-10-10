@@ -1,84 +1,26 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/workbench-dark.svg">
+  <img src="./assets/workbench-light.svg" width="960" alt="Curiosity, shipped. An imaginary workbench connecting a browser, a terminal, a cursor, and the machinery underneath.">
+</picture>
 
-# Hi, I'm _Rajaniraiyn_ <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="60px" align="middle" />
-  
-## In short, Autodidact Engineer and _Generalist Builder_ of Software & Intelligent Systems!
-  
-  Autodidact, Meticulous and Erudite web dev with strong belief in the responsive, open, and accessible web. An active supporter and contributor to open source. Created a variety of open source tools.
-  
-</div>
+### Sometimes the rabbit hole is a button. Sometimes it's Chromium.
 
----
+I like owning the whole problem: what a product should do, how it feels, and what makes it work. I'll move from an interaction to a native bridge, from a client app to a backend, or from a slow path to a new tool. The problem decides where I go next.
 
-- 🔭 I’m currently working on - [Raj lang](https://dub.sh/raja-github-lang), RajOS 🤫, WebDroid, many more under the hood
-- 🌱 I’m currently learning - Everything and Everyone around me. 😎 
-- 👯 I’m looking to collaborate with - Nice people to redefine the world. 🌏
-- 💬 Ask me about - Web Dev, Systems Dev, CrossPlatform Dev, Android Dev, Browsers, Search-Engines, Development Tooling, New Tech, AI/ML, Web3, 😉
-- 🥅 Lifetime Goal - Learn new things to empower the world. 🆕
-- ⚡ Fun fact - I'm fairly good at fun talks. 😅
+That habit runs through my product work too: AI editors and agents at [Abacus.AI](https://abacus.ai), an AI browser as a founding engineer at [Portal](https://portal.so), and Chromium-based browser development at [Santa Browser](https://santabrowser.com). Design and engineering aren't separate stops for me.
 
----
+### A few threads through the work
 
-## Tech Stack
+**Across the seams.** I've brought [Chromium into SwiftUI](https://github.com/Rajaniraiyn/CefSwift) and [native libraries into JavaScript runtimes](https://github.com/Rajaniraiyn/unffi). Different directions across the same boundary. I'm also exploring how agents can [observe and act on native interfaces](https://github.com/Rajaniraiyn/actuate).
 
-<div align="center">
+**In the details.** How state propagates, when an interface responds, what a click sounds like. [Reactive state](https://github.com/Rajaniraiyn/react-alien-signals), [sound interactions](https://github.com/Rajaniraiyn/svelte-sound), and [streaming chat](https://github.com/assistant-ui/assistant-ui/pull/597) are different ways into the same question: how does the software feel to use?
 
-  ### Langs
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+**Under the hood.** Sometimes the useful work is invisible: [generating typed parsers at compile time](https://github.com/Rajaniraiyn/jzon-rs), [making conversations persist](https://github.com/2FastLabs/agent-squad/pull/111), then [returning to fix the rough edges](https://github.com/2FastLabs/agent-squad/pull/201). I care about what happens after the demo works.
 
-  ### Services
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+### Leave room for the odd idea
 
-  ### Frameworks/Libraries
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
+An [experimental compiler](https://github.com/Rajaniraiyn/tsllvm). [Runtime evidence carried in Rust types](https://github.com/Rajaniraiyn/gdp-rs). [Workflows for coding agents](https://github.com/Rajaniraiyn/rstack). Some things become useful tools; some teach me what to build next. Both belong on the workbench.
 
-  ### Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
+Bring a stubborn integration, an interaction worth getting right, or a strange little idea. Founders, engineers, designers, and fellow tinkerers are all welcome. So are issues and pull requests.
 
-  ### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-
-  ### Others
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-  
-  </div>
-  
- ## Status
-
-<div align="center">
-  
-  [![Rajaniraiyn's github stats](https://github-stats-extended.vercel.app/api?username=rajaniraiyn&show_icons=true&theme=github_dark)](https://github.com/rajaniraiyn?tab=repositories)
-  <!--  ![Rajaniraiyn's Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajaniraiyn&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0) -->
-
-  ![Rajaniraiyn's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
-  
-  ![Rajaniraiyn's Trophies](https://github-trophies.vercel.app/?username=Rajaniraiyn&no-frame=true&margin-w=10)
-  
-  ![Rajaniraiyn's Top Languages](https://ghstats.dev/api/langs?username=Rajaniraiyn&hide_border=true&border_radius=22&layout=vertical_list)
-    
-</div>
-  
-  
-## Connect with me:
-
-<div align="left">
-  
-  [<img align="middle" alt="Rajaniraiyn | Portfolio" width="40px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
-  [<img align="middle" alt="Rajaniraiyn | LinkedIn" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
-  [<img align="middle" alt="Rajaniraiyn | Twitter" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
-  [<img align="middle" alt="Rajaniraiyn | Instagram" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
-  [<img align="middle" alt="Rajaniraiyn | Codepen" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" />][codepen]
-  [<img align="middle" alt="Rajaniraiyn | Youtube" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" />][youtube]
-  [<img align="middle" alt="Rajaniraiyn | Dev Community" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" />][dev_to]
-  
-  </div>
-
-[website]: https://dub.sh/raja-portfolio
-[linkedin]: https://dub.sh/raja-linkedin
-[twitter]: https://dub.sh/raja-tweet
-[instagram]: https://dub.sh/raja-insta
-[codepen]: https://dub.sh/raja-codepen
-[youtube]: https://dub.sh/raja-youtube
-[dev_to]: https://dub.sh/raja-dev-to
-
-<img align="right" src="https://komarev.com/ghpvc/?username=Rajaniraiyn" height="25px">
+[![Visit the portfolio](https://img.shields.io/badge/Portfolio-272b30?style=for-the-badge)](https://rajaniraiyn.dev) [![Say hello by email](https://img.shields.io/badge/Say_hello-b9472c?style=for-the-badge)](mailto:rajaniraiyn@gmail.com)
