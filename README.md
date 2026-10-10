@@ -3,31 +3,48 @@
   <img src="./assets/workbench-light.svg" width="960" alt="Curiosity, shipped. An imaginary workbench connecting a browser, a terminal, a cursor, and the machinery underneath.">
 </picture>
 
-### Hey there <img src="./assets/wave.gif" alt="Animated victory-sign hand" width="40" align="middle">
+### Hey, I'm Raj <img src="./assets/wave.gif" alt="Animated victory-sign hand" width="40" align="middle">
 
-**Sometimes the rabbit hole is a button. Sometimes it's Chromium.**
+**Self-taught engineer. Generalist builder of software & intelligent systems.**
 
-Web · desktop · mobile · CLI. From how it feels to what makes it work.
+I like taking an idea all the way: how it looks, how it feels, and how it works.
 
-![Product engineering](https://img.shields.io/badge/Product_engineering-272b30?style=flat-square) ![Design and interaction](https://img.shields.io/badge/Design_%26_interaction-b9472c?style=flat-square) ![Native and systems](https://img.shields.io/badge/Native_%26_systems-365ea8?style=flat-square) ![Tools and automation](https://img.shields.io/badge/Tools_%26_automation-47664f?style=flat-square)
+![Product engineering](https://img.shields.io/badge/Product_engineering-272b30?style=flat-square) ![Design and interaction](https://img.shields.io/badge/Design_%26_interaction-272b30?style=flat-square) ![Systems engineering](https://img.shields.io/badge/Systems_engineering-272b30?style=flat-square) ![Open source](https://img.shields.io/badge/Open_source-b9472c?style=flat-square)
 
-### Out in the world
+- **Products** · Web, desktop, mobile, CLI, browsers, and developer tools.
+- **Craft** · Interaction engineering, product design, design systems, and accessibility.
+- **Machinery** · Backend, infrastructure, native & embedded systems, AI, and automation.
 
-- **AI editors & agents** → Abacus.AI
-- **AI browser · founding engineer** → Portal
-- **Chromium-based browser development** → Santa Browser
+### Built for people
 
-### Follow a rabbit hole
+- **Abacus.AI** · Editor, agent CLI, VS Code extension, and desktop app. Shared agent workflows and custom rendering across product surfaces.
+- **Portal** · Founding engineer. AI browser, UX & design system, native integrations, inference SDK, and data infrastructure.
+- **Santa Browser** · Chromium, privacy & ad blocking, new-tab experience, extensions, and cross-platform UI.
 
-- **Across the seams** · Chromium ↔ SwiftUI · JS ↔ native libraries
-- **In the details** · reactive state · sound · streaming interfaces
-- **Under the hood** · typed JSON · persistence · developer tools
+### Open-source playground
 
-**On the bench:** native automation · compiler experiments · proof-carrying Rust · agent workflows
+- **Browsers meet native apps** · [CefSwift](https://github.com/Rajaniraiyn/CefSwift) brings Chromium into SwiftUI. [UnFFI](https://github.com/Rajaniraiyn/unffi) connects JS runtimes to native libraries.
+- **Interfaces with a little more life** · Concurrency-safe React state in [react-alien-signals](https://github.com/Rajaniraiyn/react-alien-signals), sound in [svelte-sound](https://github.com/Rajaniraiyn/svelte-sound), and a [desktop in your browser](https://github.com/Rajaniraiyn/windows11).
+- **Tools under the surface** · Compile-time Rust JSON in [jzon-rs](https://github.com/Rajaniraiyn/jzon-rs). Native UI automation with Rust, TypeScript, Python, and a CLI in [Actuate](https://github.com/Rajaniraiyn/actuate).
 
-**Upstream:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111)
+**Currently tinkering:** terminal UI runtimes · cross-device computing · [JS/TS → LLVM](https://github.com/Rajaniraiyn/tsllvm) · [scoped evidence in Rust](https://github.com/Rajaniraiyn/gdp-rs) · [coding-agent workflows](https://github.com/Rajaniraiyn/rstack)
 
-### From the GitHub corner
+**Contributing upstream:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · streaming & thread controls; [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111) · SQL persistence; [boltffi](https://github.com/boltffi/boltffi/pull/249) · JNI callbacks.
+
+### Tools I reach for
+
+![TypeScript](https://img.shields.io/badge/TypeScript-272b30?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-272b30?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-272b30?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-272b30?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-272b30?style=flat-square&logo=cplusplus&logoColor=white) ![React](https://img.shields.io/badge/React-272b30?style=flat-square&logo=react&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-272b30?style=flat-square&logo=svelte&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-272b30?style=flat-square&logo=electron&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-272b30?style=flat-square&logo=flutter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-b9472c?style=flat-square&logo=figma&logoColor=white)
+
+<details>
+<summary>More from the toolbox</summary>
+
+JavaScript · C · C# · Dart · Go · Kotlin · Lua · Ruby · Shell · HTML/CSS · Solidity<br>
+Node.js · Solid · Tailwind CSS · Firebase · Vercel · Netlify · CMake · Gradle · Playwright<br>
+Inkscape · GIMP · TensorFlow
+
+</details>
+
+### GitHub, at a glance
 
 <div align="center">
 
@@ -43,8 +60,8 @@ Web · desktop · mobile · CLI. From how it feels to what makes it work.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Commits%2CPullRequest%2CStars&amp;column=3&amp;row=1&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10">
-  <img src="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Commits%2CPullRequest%2CStars&amp;column=3&amp;row=1&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" width="350" alt="Selected GitHub trophies for commits, pull requests, and stars">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Stars%2CPullRequest%2CCommits&amp;column=3&amp;row=1&amp;theme=alduin&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10">
+  <img src="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Stars%2CPullRequest%2CCommits&amp;column=3&amp;row=1&amp;theme=oldie&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" width="350" alt="Selected GitHub trophies for stars, pull requests, and commits">
 </picture>
 
 </div>
@@ -53,6 +70,6 @@ Web · desktop · mobile · CLI. From how it feels to what makes it work.
 
 ---
 
-**Got a strange idea or a stubborn problem? Let's build.**
+**Always learning. Happy to build, collaborate, or talk through a strange idea.**
 
-[![Visit the portfolio](https://img.shields.io/badge/Portfolio-272b30?style=for-the-badge)](https://rajaniraiyn.dev) [![Say hello by email](https://img.shields.io/badge/Say_hello-b9472c?style=for-the-badge)](mailto:rajaniraiyn@gmail.com)
+[![Visit the portfolio](https://img.shields.io/badge/Portfolio-272b30?style=flat-square)](https://rajaniraiyn.dev) [![Say hello by email](https://img.shields.io/badge/Say_hello-b9472c?style=flat-square)](mailto:rajaniraiyn@gmail.com)
