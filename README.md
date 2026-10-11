@@ -1,84 +1,102 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/workbench-dark.svg">
+  <img src="./assets/workbench-light.svg" width="960" alt="Curiosity, shipped. An imaginary workbench connecting a browser, a terminal, a cursor, and the machinery underneath.">
+</picture>
+
+### Hey, I'm Raj <img src="./assets/wave.gif" alt="Animated victory-sign hand" width="40" align="middle">
+
+**Engineer. Generalist builder of software & intelligent systems.**
+
+I take ideas from design to working software, adapting to whatever language, technology, or domain the problem calls for.
+
+![Product engineering](https://img.shields.io/badge/Product_engineering-272b30?style=flat-square) ![Design and interaction](https://img.shields.io/badge/Design_%26_interaction-272b30?style=flat-square) ![Systems engineering](https://img.shields.io/badge/Systems_engineering-272b30?style=flat-square) ![Open source](https://img.shields.io/badge/Open_source-b9472c?style=flat-square)
+
+- **Products** · Web, desktop, mobile, CLI, browsers, and developer tools.
+- **Craft** · Interaction engineering, product design, design systems, and accessibility.
+- **Systems** · Backend, infrastructure, native & embedded systems, search, AI/ML, Web3, and automation.
+
+### Built for people
+
+- **Abacus.AI** · Editor, agent CLI, VS Code extension, and desktop app. Shared agent workflows and custom rendering across product surfaces.
+- **Portal** · Founding engineer. AI browser, UX & design system, native integrations, inference SDK, and data infrastructure.
+- **Santa Browser** · Chromium, privacy & ad blocking, new-tab experience, extensions, and cross-platform UI.
+
+### Open-source playground
+
+- **Browsers meet native apps** · [CefSwift](https://github.com/Rajaniraiyn/CefSwift) brings Chromium into SwiftUI. [UnFFI](https://github.com/Rajaniraiyn/unffi) connects JS runtimes to native libraries.
+- **Interfaces with a little more life** · Concurrency-safe React state in [react-alien-signals](https://github.com/Rajaniraiyn/react-alien-signals), sound in [svelte-sound](https://github.com/Rajaniraiyn/svelte-sound), and a [desktop in your browser](https://github.com/Rajaniraiyn/windows11).
+- **Tools under the surface** · Compile-time Rust JSON in [jzon-rs](https://github.com/Rajaniraiyn/jzon-rs). Native UI automation with Rust, TypeScript, Python, and a CLI in [Actuate](https://github.com/Rajaniraiyn/actuate).
+
+**Currently tinkering:** terminal interfaces · cross-device computing · [a JS/TS compiler](https://github.com/Rajaniraiyn/tsllvm) · [Rust type-safety experiments](https://github.com/Rajaniraiyn/gdp-rs) · [coding-agent workflows](https://github.com/Rajaniraiyn/rstack)
+
+**Contributing upstream:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · live responses & conversation controls; [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111) · conversation storage; [boltffi](https://github.com/boltffi/boltffi/pull/249) · native Java integration.
+
+### My toolbox
+
+Tools I've used, not the boundaries of what I can build.
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-272b30?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-272b30?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-272b30?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-272b30?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-272b30?style=flat-square&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/C-272b30?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-272b30?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-272b30?style=flat-square) ![Go](https://img.shields.io/badge/Go-272b30?style=flat-square&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-272b30?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-272b30?style=flat-square&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-272b30?style=flat-square&logo=lua&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-272b30?style=flat-square&logo=ruby&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-272b30?style=flat-square&logo=solidity&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-272b30?style=flat-square&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-272b30?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-272b30?style=flat-square&logo=css&logoColor=white)
+
+- **Web & interaction** · React, Solid, Svelte, Next.js, Astro, shadcn/ui, Base UI, Tailwind CSS, Motion, and Three.js.
+- **Routing, state & validation** · TanStack Router & Store, React Router, Alien Signals, Zustand, Jotai, and Zod.
+- **Desktop & mobile** · Electron, Tauri, Flutter, SwiftUI, Chromium/CEF, Wails, and WebAssembly.
+- **Build tools & compilers** · Vite, Rolldown, Rollup, tsdown, OXC, LLVM, Babel, Webpack, CMake, and Gradle.
+- **Backend & data** · Node.js, Bun, Express, Redis, SQLite, PostgreSQL, Supabase, and Firebase.
+- **Infrastructure & quality** · Docker, Linux, Cloudflare Workers, Vercel, Netlify, GitHub Actions, Playwright, Testing Library, ESLint, and Sentry.
+- **Design & workflow** · Figma, Inkscape, GIMP, Blender, VS Code, Git, npm, and Yarn.
+
+<details>
+<summary>More from the toolbox</summary>
+
+**UI & styling** · Ant Design, Bootstrap, Chakra UI, MUI, jQuery, Sass, Less, styled-components, Lucide, class-variance-authority, and tailwind-merge.
+
+**Rendering & testing** · React Compiler, Lenis, canvas-confetti, Happy DOM, and TypeDoc.
+
+**Other tools** · Gulp, Heroku, Jira, TensorFlow, Markdown, and Regex.
+
+</details>
+
+### GitHub, at a glance
+
 <div align="center">
 
-# Hi, I'm _Rajaniraiyn_ <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="60px" align="middle" />
-  
-## In short, Autodidact Engineer and _Generalist Builder_ of Software & Intelligent Systems!
-  
-  Autodidact, Meticulous and Erudite web dev with strong belief in the responsive, open, and accessible web. An active supporter and contributor to open source. Created a variety of open source tools.
-  
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=github-dark&amp;hide_border=true&amp;disable_animations=true&amp;background=191E25&amp;stroke=343B45&amp;ring=ED9069&amp;fire=ED9069&amp;currStreakLabel=E8DFCE&amp;sideLabels=E8DFCE&amp;currStreakNum=E8DFCE&amp;sideNums=E8DFCE&amp;dates=ADA89F">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=default&amp;hide_border=true&amp;disable_animations=true&amp;background=F6F1E7&amp;stroke=DED7CA&amp;ring=B9472C&amp;fire=B9472C&amp;currStreakLabel=272B30&amp;sideLabels=272B30&amp;currStreakNum=272B30&amp;sideNums=272B30&amp;dates=6B675F" width="420" align="top" alt="Public GitHub contributions, current streak, and longest streak">
+</picture>
+</p>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=8&amp;hide_border=true&amp;border_radius=4&amp;bg=191e25&amp;text=e8dfce&amp;title_color=ed9069&amp;custom_title=Repository%20languages">
+  <img src="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=8&amp;hide_border=true&amp;border_radius=4&amp;theme=light&amp;bg=f6f1e7&amp;text=272b30&amp;title_color=b9472c&amp;custom_title=Repository%20languages" width="420" align="top" alt="Eight most-used languages across public repositories">
+</picture>
+</p>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Stars%2CPullRequest%2CCommits%2CRepositories%2CMultiLanguage%2CLongTimeUser&amp;column=3&amp;row=2&amp;theme=alduin&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;margin-h=10">
+  <img src="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Stars%2CPullRequest%2CCommits%2CRepositories%2CMultiLanguage%2CLongTimeUser&amp;column=3&amp;row=2&amp;theme=oldie&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;margin-h=10" width="420" alt="Six GitHub trophies for commits, stars, pull requests, repositories, languages, and account longevity">
+</picture>
+</p>
+
 </div>
+
+<sub>GitHub activity and repository languages. My broader skills are in the toolbox above.</sub>
 
 ---
 
-- 🔭 I’m currently working on - [Raj lang](https://dub.sh/raja-github-lang), RajOS 🤫, WebDroid, many more under the hood
-- 🌱 I’m currently learning - Everything and Everyone around me. 😎 
-- 👯 I’m looking to collaborate with - Nice people to redefine the world. 🌏
-- 💬 Ask me about - Web Dev, Systems Dev, CrossPlatform Dev, Android Dev, Browsers, Search-Engines, Development Tooling, New Tech, AI/ML, Web3, 😉
-- 🥅 Lifetime Goal - Learn new things to empower the world. 🆕
-- ⚡ Fun fact - I'm fairly good at fun talks. 😅
+**Always learning. Happy to build, collaborate, or talk through a strange idea.**
 
----
+[![Visit the portfolio](https://img.shields.io/badge/Portfolio-272b30?style=flat-square)](https://rajaniraiyn.dev) [![Say hello by email](https://img.shields.io/badge/Say_hello-b9472c?style=flat-square)](mailto:rajaniraiyn@gmail.com)
 
-## Tech Stack
+**Elsewhere**
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-272b30?style=flat-square)](https://www.linkedin.com/in/rajaniraiyn/) [![X](https://img.shields.io/badge/X-272b30?style=flat-square)](https://x.com/rajaniraiyn) [![Instagram](https://img.shields.io/badge/Instagram-272b30?style=flat-square)](https://www.instagram.com/rajaniraiyn/) [![CodePen](https://img.shields.io/badge/CodePen-272b30?style=flat-square)](https://dub.sh/raja-codepen) [![YouTube](https://img.shields.io/badge/YouTube-272b30?style=flat-square)](https://www.youtube.com/@rajaniraiyn) [![DEV](https://img.shields.io/badge/DEV-272b30?style=flat-square)](https://dev.to/rajaniraiyn)
 
-  ### Langs
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-
-  ### Services
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-
-  ### Frameworks/Libraries
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
-
-  ### Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
-
-  ### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-
-  ### Others
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-  
-  </div>
-  
- ## Status
-
-<div align="center">
-  
-  [![Rajaniraiyn's github stats](https://github-stats-extended.vercel.app/api?username=rajaniraiyn&show_icons=true&theme=github_dark)](https://github.com/rajaniraiyn?tab=repositories)
-  <!--  ![Rajaniraiyn's Streak](http://github-readme-streak-stats.herokuapp.com?user=Rajaniraiyn&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0) -->
-
-  ![Rajaniraiyn's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
-  
-  ![Rajaniraiyn's Trophies](https://github-trophies.vercel.app/?username=Rajaniraiyn&no-frame=true&margin-w=10)
-  
-  ![Rajaniraiyn's Top Languages](https://ghstats.dev/api/langs?username=Rajaniraiyn&hide_border=true&border_radius=22&layout=vertical_list)
-    
-</div>
-  
-  
-## Connect with me:
-
-<div align="left">
-  
-  [<img align="middle" alt="Rajaniraiyn | Portfolio" width="40px" src="https://www.pngkey.com/png/full/131-1312432_website-logo-png-transparent-background-image-black-logo.png" />][website]
-  [<img align="middle" alt="Rajaniraiyn | LinkedIn" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
-  [<img align="middle" alt="Rajaniraiyn | Twitter" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
-  [<img align="middle" alt="Rajaniraiyn | Instagram" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />][instagram]
-  [<img align="middle" alt="Rajaniraiyn | Codepen" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" />][codepen]
-  [<img align="middle" alt="Rajaniraiyn | Youtube" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" />][youtube]
-  [<img align="middle" alt="Rajaniraiyn | Dev Community" width="40px" src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" />][dev_to]
-  
-  </div>
-
-[website]: https://dub.sh/raja-portfolio
-[linkedin]: https://dub.sh/raja-linkedin
-[twitter]: https://dub.sh/raja-tweet
-[instagram]: https://dub.sh/raja-insta
-[codepen]: https://dub.sh/raja-codepen
-[youtube]: https://dub.sh/raja-youtube
-[dev_to]: https://dub.sh/raja-dev-to
-
-<img align="right" src="https://komarev.com/ghpvc/?username=Rajaniraiyn" height="25px">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Rajaniraiyn&amp;label=Profile%20views&amp;color=b9472c&amp;style=flat-square" alt="Profile view counter">
+</p>
