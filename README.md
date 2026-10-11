@@ -5,7 +5,7 @@
 
 ### Hey, I'm Raj <img src="./assets/wave.gif" alt="Animated victory-sign hand" width="40" align="middle">
 
-**Self-taught engineer. Generalist builder of software & intelligent systems.**
+**Engineer. Generalist builder of software & intelligent systems.**
 
 I take ideas from design to working software, adapting to whatever language, technology, or domain the problem calls for.
 
