@@ -7,13 +7,13 @@
 
 **Self-taught engineer. Generalist builder of software & intelligent systems.**
 
-I like taking an idea all the way: how it looks, how it feels, and how it works.
+I take ideas from design to working software, adapting to whatever language, technology, or domain the problem calls for.
 
 ![Product engineering](https://img.shields.io/badge/Product_engineering-272b30?style=flat-square) ![Design and interaction](https://img.shields.io/badge/Design_%26_interaction-272b30?style=flat-square) ![Systems engineering](https://img.shields.io/badge/Systems_engineering-272b30?style=flat-square) ![Open source](https://img.shields.io/badge/Open_source-b9472c?style=flat-square)
 
 - **Products** · Web, desktop, mobile, CLI, browsers, and developer tools.
 - **Craft** · Interaction engineering, product design, design systems, and accessibility.
-- **Machinery** · Backend, infrastructure, native & embedded systems, AI, and automation.
+- **Machinery** · Backend, infrastructure, native & embedded systems, search, AI/ML, Web3, and automation.
 
 ### Built for people
 
@@ -31,16 +31,24 @@ I like taking an idea all the way: how it looks, how it feels, and how it works.
 
 **Contributing upstream:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · streaming & thread controls; [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111) · SQL persistence; [boltffi](https://github.com/boltffi/boltffi/pull/249) · JNI callbacks.
 
-### Tools I reach for
+### My toolbox
 
-![TypeScript](https://img.shields.io/badge/TypeScript-272b30?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-272b30?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-272b30?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-272b30?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-272b30?style=flat-square&logo=cplusplus&logoColor=white) ![React](https://img.shields.io/badge/React-272b30?style=flat-square&logo=react&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-272b30?style=flat-square&logo=svelte&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-272b30?style=flat-square&logo=electron&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-272b30?style=flat-square&logo=flutter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-b9472c?style=flat-square&logo=figma&logoColor=white)
+Tools I've used, not the boundaries of what I can build.
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-272b30?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-272b30?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-272b30?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-272b30?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-272b30?style=flat-square&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/C-272b30?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-272b30?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-272b30?style=flat-square) ![Go](https://img.shields.io/badge/Go-272b30?style=flat-square&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-272b30?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-272b30?style=flat-square&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-272b30?style=flat-square&logo=lua&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-272b30?style=flat-square&logo=ruby&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-272b30?style=flat-square&logo=solidity&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-272b30?style=flat-square&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-272b30?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-272b30?style=flat-square&logo=css&logoColor=white)
+
+- **Interfaces & apps** · React, Solid, Svelte, Next.js, Astro, Electron, Tauri, Flutter, Three.js, Tailwind CSS, and WebAssembly.
+- **Backend & infrastructure** · Node.js, Bun, Redis, SQLite, Supabase, Firebase, Docker, Linux, Cloudflare Workers, Vercel, Netlify, and GitHub Actions.
+- **Design & developer tooling** · Figma, Inkscape, GIMP, Blender, VS Code, Git, Vite, Rollup, Playwright, CMake, Gradle, and Sentry.
 
 <details>
 <summary>More from the toolbox</summary>
 
-JavaScript · C · C# · Dart · Go · Kotlin · Lua · Ruby · Shell · HTML/CSS · Solidity<br>
-Node.js · Solid · Tailwind CSS · Firebase · Vercel · Netlify · CMake · Gradle · Playwright<br>
-Inkscape · GIMP · TensorFlow
+Ant Design · Bootstrap · Chakra UI · MUI · Express · jQuery · React Router<br>
+Sass · Less · styled-components · Babel · Gulp · Webpack · ESLint<br>
+npm · Yarn · Heroku · Jira · TensorFlow · Markdown · Regex
 
 </details>
 
