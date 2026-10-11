@@ -13,7 +13,7 @@ I take ideas from design to working software, adapting to whatever language, tec
 
 - **Products** · Web, desktop, mobile, CLI, browsers, and developer tools.
 - **Craft** · Interaction engineering, product design, design systems, and accessibility.
-- **Machinery** · Backend, infrastructure, native & embedded systems, search, AI/ML, Web3, and automation.
+- **Systems** · Backend, infrastructure, native & embedded systems, search, AI/ML, Web3, and automation.
 
 ### Built for people
 
@@ -27,9 +27,9 @@ I take ideas from design to working software, adapting to whatever language, tec
 - **Interfaces with a little more life** · Concurrency-safe React state in [react-alien-signals](https://github.com/Rajaniraiyn/react-alien-signals), sound in [svelte-sound](https://github.com/Rajaniraiyn/svelte-sound), and a [desktop in your browser](https://github.com/Rajaniraiyn/windows11).
 - **Tools under the surface** · Compile-time Rust JSON in [jzon-rs](https://github.com/Rajaniraiyn/jzon-rs). Native UI automation with Rust, TypeScript, Python, and a CLI in [Actuate](https://github.com/Rajaniraiyn/actuate).
 
-**Currently tinkering:** terminal UI runtimes · cross-device computing · [JS/TS → LLVM](https://github.com/Rajaniraiyn/tsllvm) · [scoped evidence in Rust](https://github.com/Rajaniraiyn/gdp-rs) · [coding-agent workflows](https://github.com/Rajaniraiyn/rstack)
+**Currently tinkering:** terminal interfaces · cross-device computing · [a JS/TS compiler](https://github.com/Rajaniraiyn/tsllvm) · [Rust type-safety experiments](https://github.com/Rajaniraiyn/gdp-rs) · [coding-agent workflows](https://github.com/Rajaniraiyn/rstack)
 
-**Contributing upstream:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · streaming & thread controls; [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111) · SQL persistence; [boltffi](https://github.com/boltffi/boltffi/pull/249) · JNI callbacks.
+**Contributing upstream:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · live responses & conversation controls; [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111) · conversation storage; [boltffi](https://github.com/boltffi/boltffi/pull/249) · native Java integration.
 
 ### My toolbox
 
@@ -56,25 +56,30 @@ npm · Yarn · Heroku · Jira · TensorFlow · Markdown · Regex
 
 <div align="center">
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=github-dark&amp;hide_border=true&amp;disable_animations=true&amp;background=191E25&amp;stroke=343B45&amp;ring=ED9069&amp;fire=ED9069&amp;currStreakLabel=E8DFCE&amp;sideLabels=E8DFCE&amp;currStreakNum=E8DFCE&amp;sideNums=E8DFCE&amp;dates=ADA89F">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rajaniraiyn&amp;theme=default&amp;hide_border=true&amp;disable_animations=true&amp;background=F6F1E7&amp;stroke=DED7CA&amp;ring=B9472C&amp;fire=B9472C&amp;currStreakLabel=272B30&amp;sideLabels=272B30&amp;currStreakNum=272B30&amp;sideNums=272B30&amp;dates=6B675F" width="420" align="top" alt="Public GitHub contributions, current streak, and longest streak">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=6&amp;hide_border=true&amp;border_radius=12&amp;bg=191e25&amp;text=e8dfce&amp;title_color=ed9069&amp;custom_title=Repository%20languages">
-  <img src="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=6&amp;hide_border=true&amp;border_radius=12&amp;theme=light&amp;bg=f6f1e7&amp;text=272b30&amp;title_color=b9472c&amp;custom_title=Repository%20languages" width="300" align="top" alt="Most-used languages across public repositories">
-</picture>
+</p>
 
-<br>
-
+<p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Stars%2CPullRequest%2CCommits&amp;column=3&amp;row=1&amp;theme=alduin&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10">
-  <img src="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Stars%2CPullRequest%2CCommits&amp;column=3&amp;row=1&amp;theme=oldie&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10" width="350" alt="Selected GitHub trophies for stars, pull requests, and commits">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=8&amp;hide_border=true&amp;border_radius=4&amp;bg=191e25&amp;text=e8dfce&amp;title_color=ed9069&amp;custom_title=Repository%20languages">
+  <img src="https://ghstats.dev/api/langs?username=Rajaniraiyn&amp;layout=compact&amp;max_langs=8&amp;hide_border=true&amp;border_radius=4&amp;theme=light&amp;bg=f6f1e7&amp;text=272b30&amp;title_color=b9472c&amp;custom_title=Repository%20languages" width="420" align="top" alt="Eight most-used languages across public repositories">
 </picture>
+</p>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Stars%2CPullRequest%2CCommits%2CRepositories%2CMultiLanguage%2CLongTimeUser&amp;column=3&amp;row=2&amp;theme=alduin&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;margin-h=10">
+  <img src="https://github-trophies.vercel.app/?username=Rajaniraiyn&amp;title=Stars%2CPullRequest%2CCommits%2CRepositories%2CMultiLanguage%2CLongTimeUser&amp;column=3&amp;row=2&amp;theme=oldie&amp;no-frame=true&amp;no-bg=true&amp;margin-w=10&amp;margin-h=10" width="420" alt="Six GitHub trophies for commits, stars, pull requests, repositories, languages, and account longevity">
+</picture>
+</p>
 
 </div>
 
-<sub>Public activity. Repository languages reflect code volume, not proficiency.</sub>
+<sub>GitHub activity and repository languages. My broader skills are in the toolbox above.</sub>
 
 ---
 
