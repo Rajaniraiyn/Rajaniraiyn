@@ -92,3 +92,11 @@ Tools I've used, not the boundaries of what I can build.
 **Always learning. Happy to build, collaborate, or talk through a strange idea.**
 
 [![Visit the portfolio](https://img.shields.io/badge/Portfolio-272b30?style=flat-square)](https://rajaniraiyn.dev) [![Say hello by email](https://img.shields.io/badge/Say_hello-b9472c?style=flat-square)](mailto:rajaniraiyn@gmail.com)
+
+**Elsewhere**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-272b30?style=flat-square)](https://www.linkedin.com/in/rajaniraiyn/) [![X](https://img.shields.io/badge/X-272b30?style=flat-square)](https://x.com/rajaniraiyn) [![Instagram](https://img.shields.io/badge/Instagram-272b30?style=flat-square)](https://www.instagram.com/rajaniraiyn/) [![CodePen](https://img.shields.io/badge/CodePen-272b30?style=flat-square)](https://dub.sh/raja-codepen) [![YouTube](https://img.shields.io/badge/YouTube-272b30?style=flat-square)](https://www.youtube.com/@rajaniraiyn) [![DEV](https://img.shields.io/badge/DEV-272b30?style=flat-square)](https://dev.to/rajaniraiyn)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Rajaniraiyn&amp;label=Profile%20views&amp;color=b9472c&amp;style=flat-square" alt="Profile view counter">
+</p>
