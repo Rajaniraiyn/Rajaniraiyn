@@ -39,16 +39,22 @@ Tools I've used, not the boundaries of what I can build.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-272b30?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-272b30?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-272b30?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-272b30?style=flat-square&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-272b30?style=flat-square&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/C-272b30?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-272b30?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-272b30?style=flat-square) ![Go](https://img.shields.io/badge/Go-272b30?style=flat-square&logo=go&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-272b30?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-272b30?style=flat-square&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-272b30?style=flat-square&logo=lua&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-272b30?style=flat-square&logo=ruby&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-272b30?style=flat-square&logo=solidity&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-272b30?style=flat-square&logo=gnubash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-272b30?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-272b30?style=flat-square&logo=css&logoColor=white)
 
-- **Interfaces & apps** · React, Solid, Svelte, Next.js, Astro, Electron, Tauri, Flutter, Three.js, Tailwind CSS, and WebAssembly.
-- **Backend & infrastructure** · Node.js, Bun, Redis, SQLite, Supabase, Firebase, Docker, Linux, Cloudflare Workers, Vercel, Netlify, and GitHub Actions.
-- **Design & developer tooling** · Figma, Inkscape, GIMP, Blender, VS Code, Git, Vite, Rollup, Playwright, CMake, Gradle, and Sentry.
+- **Web & interaction** · React, Solid, Svelte, Next.js, Astro, shadcn/ui, Base UI, Tailwind CSS, Motion, and Three.js.
+- **Routing, state & validation** · TanStack Router & Store, React Router, Alien Signals, Zustand, Jotai, and Zod.
+- **Desktop & mobile** · Electron, Tauri, Flutter, SwiftUI, Chromium/CEF, Wails, and WebAssembly.
+- **Build tools & compilers** · Vite, Rolldown, Rollup, tsdown, OXC, LLVM, Babel, Webpack, CMake, and Gradle.
+- **Backend & data** · Node.js, Bun, Express, Redis, SQLite, PostgreSQL, Supabase, and Firebase.
+- **Infrastructure & quality** · Docker, Linux, Cloudflare Workers, Vercel, Netlify, GitHub Actions, Playwright, Testing Library, ESLint, and Sentry.
+- **Design & workflow** · Figma, Inkscape, GIMP, Blender, VS Code, Git, npm, and Yarn.
 
 <details>
 <summary>More from the toolbox</summary>
 
-Ant Design · Bootstrap · Chakra UI · MUI · Express · jQuery · React Router<br>
-Sass · Less · styled-components · Babel · Gulp · Webpack · ESLint<br>
-npm · Yarn · Heroku · Jira · TensorFlow · Markdown · Regex
+**UI & styling** · Ant Design, Bootstrap, Chakra UI, MUI, jQuery, Sass, Less, styled-components, Lucide, class-variance-authority, and tailwind-merge.
+
+**Rendering & testing** · React Compiler, Lenis, canvas-confetti, Happy DOM, and TypeDoc.
+
+**Other tools** · Gulp, Heroku, Jira, TensorFlow, Markdown, and Regex.
 
 </details>
 
