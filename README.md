@@ -5,9 +5,9 @@
 
 ### Hey, I'm Raj <img src="./assets/wave.gif" alt="Animated victory-sign hand" width="40" align="middle">
 
-**Engineer. Generalist builder of software & intelligent systems.**
+**Engineer and generalist builder of software & intelligent systems.**
 
-I take ideas from design to working software, adapting to whatever language, technology, or domain the problem calls for.
+I design and build software, learning the languages and technologies each problem needs.
 
 ![Product engineering](https://img.shields.io/badge/Product_engineering-272b30?style=flat-square) ![Design and interaction](https://img.shields.io/badge/Design_%26_interaction-272b30?style=flat-square) ![Systems engineering](https://img.shields.io/badge/Systems_engineering-272b30?style=flat-square) ![Open source](https://img.shields.io/badge/Open_source-b9472c?style=flat-square)
 
@@ -15,25 +15,23 @@ I take ideas from design to working software, adapting to whatever language, tec
 - **Craft** · Interaction engineering, product design, design systems, and accessibility.
 - **Systems** · Backend, infrastructure, native & embedded systems, search, AI/ML, Web3, and automation.
 
-### Built for people
+### Product work
 
-- **Abacus.AI** · Editor, agent CLI, VS Code extension, and desktop app. Shared agent workflows and custom rendering across product surfaces.
+- **Abacus.AI** · Editor, agent CLI, VS Code extension, and desktop app, with shared agent workflows and custom rendering.
 - **Portal** · Founding engineer. AI browser, UX & design system, native integrations, inference SDK, and data infrastructure.
 - **Santa Browser** · Chromium, privacy & ad blocking, new-tab experience, extensions, and cross-platform UI.
 
-### Open-source playground
+### Open source & experiments
 
-- **Browsers meet native apps** · [CefSwift](https://github.com/Rajaniraiyn/CefSwift) brings Chromium into SwiftUI. [UnFFI](https://github.com/Rajaniraiyn/unffi) connects JS runtimes to native libraries.
-- **Interfaces with a little more life** · Concurrency-safe React state in [react-alien-signals](https://github.com/Rajaniraiyn/react-alien-signals), sound in [svelte-sound](https://github.com/Rajaniraiyn/svelte-sound), and a [desktop in your browser](https://github.com/Rajaniraiyn/windows11).
-- **Tools under the surface** · Compile-time Rust JSON in [jzon-rs](https://github.com/Rajaniraiyn/jzon-rs). Native UI automation with Rust, TypeScript, Python, and a CLI in [Actuate](https://github.com/Rajaniraiyn/actuate).
+- [CefSwift](https://github.com/Rajaniraiyn/CefSwift) embeds Chromium in SwiftUI. [UnFFI](https://github.com/Rajaniraiyn/unffi) connects JS runtimes to native libraries.
+- [react-alien-signals](https://github.com/Rajaniraiyn/react-alien-signals) provides concurrency-safe React state. [svelte-sound](https://github.com/Rajaniraiyn/svelte-sound) adds sound to Svelte apps. [windows11](https://github.com/Rajaniraiyn/windows11) recreates a desktop in the browser.
+- [jzon-rs](https://github.com/Rajaniraiyn/jzon-rs) generates typed JSON parsers and serializers for Rust at compile time. [Actuate](https://github.com/Rajaniraiyn/actuate) automates native apps through Rust, TypeScript, Python, or a CLI.
 
 **Currently tinkering:** terminal interfaces · cross-device computing · [a JS/TS compiler](https://github.com/Rajaniraiyn/tsllvm) · [Rust type-safety experiments](https://github.com/Rajaniraiyn/gdp-rs) · [coding-agent workflows](https://github.com/Rajaniraiyn/rstack)
 
-**Contributing upstream:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · live responses & conversation controls; [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111) · conversation storage; [boltffi](https://github.com/boltffi/boltffi/pull/249) · native Java integration.
+**Upstream contributions:** [assistant-ui](https://github.com/assistant-ui/assistant-ui/pull/597) · live responses & conversation controls; [Agent Squad](https://github.com/2FastLabs/agent-squad/pull/111) · conversation storage; [boltffi](https://github.com/boltffi/boltffi/pull/249) · native Java integration.
 
 ### My toolbox
-
-Tools I've used, not the boundaries of what I can build.
 
 **Languages**
 
@@ -85,11 +83,11 @@ Tools I've used, not the boundaries of what I can build.
 
 </div>
 
-<sub>GitHub activity and repository languages. My broader skills are in the toolbox above.</sub>
+<sub>GitHub activity and public-repository languages.</sub>
 
 ---
 
-**Always learning. Happy to build, collaborate, or talk through a strange idea.**
+**Get in touch for product work or open-source collaboration.**
 
 [![Visit the portfolio](https://img.shields.io/badge/Portfolio-272b30?style=flat-square)](https://rajaniraiyn.dev) [![Say hello by email](https://img.shields.io/badge/Say_hello-b9472c?style=flat-square)](mailto:rajaniraiyn@gmail.com)
 
